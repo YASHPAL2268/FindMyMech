@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **🚗 Find My Mechanic – Your Roadside Assistance Partner 🔧**
 
 
@@ -67,3 +68,7 @@ Maps & Location: Mapbox API💳
 Payments: Razorpay📨 
 
 Emails & Alerts: Nodemailer
+=======
+# FindMyMech-
+FindMyMech is a location-based platform that connects users with nearby, verified mechanics. It simplifies vehicle servicing by allowing users to browse available mechanics, view ratings, check prices, and book appointments—all in one place. 
+>>>>>>> ad8c88d8d736d65ba037d717fe455dc8d3aeb386
