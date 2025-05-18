@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 **🚗 Find My Mechanic – Your Roadside Assistance Partner 🔧**
 
 
@@ -71,4 +71,22 @@ Emails & Alerts: Nodemailer
 =======
 # FindMyMech-
 FindMyMech is a location-based platform that connects users with nearby, verified mechanics. It simplifies vehicle servicing by allowing users to browse available mechanics, view ratings, check prices, and book appointments—all in one place. 
->>>>>>> ad8c88d8d736d65ba037d717fe455dc8d3aeb386
+
+=======
+# FindMyMech
+FindMech is an automotive service platform that connects users with skilled mechanics and verified vendors for genuine spare parts. The app offers features like 24/7 support, real-time updates, and options to buy, swap, or sell cars, providing a convenient solution for various automotive needs.
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+Your local changes
+=======
+Remote changes on GitHub
+>>>>>>> main
